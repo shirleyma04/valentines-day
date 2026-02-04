@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom'
 import './LetterScreen.css'
 import letterOpening from './assets/letter-opening.mp4';
 import useSound from 'use-sound'
-import paperSound from './sounds/paper-sound.wav'
+import paperSound from './sounds/paper-sound.mp3'
 import bgm from './sounds/bgm.mp3'
 import letter from './assets/letter.png'
 

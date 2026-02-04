@@ -2,7 +2,7 @@ import React, {useEffect} from 'react'
 import { useNavigate } from 'react-router-dom'
 import './LeaveScreen.css'
 import useSound from 'use-sound';
-import alarmSound from './sounds/alarm-sound.wav'
+import alarmSound from './sounds/alarm-sound.mp3'
 
 
 function LeaveScreen() {
